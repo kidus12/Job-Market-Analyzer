@@ -1,4 +1,4 @@
-![Dashboard](<img width="1901" height="944" alt="JobMarketAnalyzer png" src="https://github.com/user-attachments/assets/19df68ea-7b17-4d77-ad37-6480aea11eef" />
+![Dashboard]
 <img width="1901" height="944" alt="JobMarketAnalyzer png" src="https://github.com/user-attachments/assets/19df68ea-7b17-4d77-ad37-6480aea11eef" />
 
 
