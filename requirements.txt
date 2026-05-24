@@ -1,0 +1,7 @@
+streamlit
+anthropic
+tavily-python
+beautifulsoup4
+plotly
+pandas
+requests
