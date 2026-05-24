@@ -1,4 +1,7 @@
-![Dashboard](JobMarketAnalyzer.png)
+![Dashboard](<img width="1901" height="944" alt="JobMarketAnalyzer png" src="https://github.com/user-attachments/assets/19df68ea-7b17-4d77-ad37-6480aea11eef" />
+<img width="1901" height="944" alt="JobMarketAnalyzer png" src="https://github.com/user-attachments/assets/19df68ea-7b17-4d77-ad37-6480aea11eef" />
+
+
 # Job Market Analyzer
 
 Real-time intelligence on DS/AI internship trends, powered by the Claude API.
