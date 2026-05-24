@@ -1,3 +1,4 @@
+![Dashboard](JobMarketAnalyzer.png)
 # Job Market Analyzer
 
 Real-time intelligence on DS/AI internship trends, powered by the Claude API.
