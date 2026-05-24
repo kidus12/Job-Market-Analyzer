@@ -145,7 +145,7 @@ st.markdown("---")
 with st.sidebar:
     st.markdown("### 🔑 API Keys")
     tavily_key = st.text_input("Tavily API Key", type="password", value="add tavily key here")
-    anthropic_key = st.text_input("Anthropic API Key", type="password", value="add claude code here")
+    anthropic_key = st.text_input("Anthropic API Key", type="password", value="add claude key here")
 
     st.markdown("---")
     st.markdown("### 🎯 Search Filters")
